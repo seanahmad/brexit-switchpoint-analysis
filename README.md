@@ -136,7 +136,7 @@ It is observed that:
 
 ## Conclusion
 
-This has been an introduction to the use of Bayesian switchpoint analysis using *tf.probability*. For this particular case, more time series data would be useful to further confirm whether 17th February 2020 does infact serve as a signifcant switchpoint in explaining the decline in page views. I intend on updating this article in the future to reflect whether this is the case.
+This has been an introduction to the use of Bayesian switchpoint analysis using *tf.probability*. For this particular case, more time series data would be useful to further confirm whether 17th February 2020 does in fact serve as a significant switchpoint in explaining the decline in page views. I intend on updating this article in the future to reflect whether this is the case.
 
 Many thanks for reading, and the associated GitHub repository for this example is accessible [here](https://github.com/MGCodesandStats/brexit-switchpoint-analysis).
 
